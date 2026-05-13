@@ -1,0 +1,6 @@
+# Ignore files generate from virtual environments, Python cache
+venv
+__pycache__
+
+# Ignore docx files generated from the script
+*.docx
